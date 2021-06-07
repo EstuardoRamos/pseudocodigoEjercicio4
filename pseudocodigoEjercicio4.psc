@@ -1,5 +1,5 @@
 Algoritmo pseudocodigoEjercicio4
-	Definir edad,edadMayor Como Entero
+	Definir edad,edadMayor Como Real
 	edadMayor=0
 	Para i=1 hasta 5 Con Paso  1 Hacer
 		Escribir "Ingrese la edad";
@@ -8,5 +8,5 @@ Algoritmo pseudocodigoEjercicio4
 			edadMayor=edad
 		FinSi
 	FinPara;
-	Escribir "La edad Mayor es ",edadMayor;
+	Escribir "La edad mayor es ",edadMayor;
 FinAlgoritmo
